@@ -492,6 +492,7 @@ Parallax
 #separator {	
 	background-image: url(../img/parallax-bg.jpg) ;
     background-size: 100%;
+	background-repeat: no-repeat;
 }
 
 #separator .icon {
